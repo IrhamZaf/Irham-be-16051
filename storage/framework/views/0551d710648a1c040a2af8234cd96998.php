@@ -1,0 +1,1 @@
+<h1>welcome</h1><?php /**PATH C:\Users\irham\OneDrive\Desktop\laravel\movie-api\resources\views/home.blade.php ENDPATH**/ ?>
